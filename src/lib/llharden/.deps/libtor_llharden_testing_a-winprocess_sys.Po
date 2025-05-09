@@ -1,0 +1,12 @@
+src/lib/llharden/libtor_llharden_testing_a-winprocess_sys.o: \
+ src/lib/llharden/winprocess_sys.c /usr/include/stdc-predef.h orconfig.h \
+ src/lib/subsys/subsys.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdbool.h \
+ src/lib/llharden/winprocess_sys.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h
+/usr/include/stdc-predef.h:
+orconfig.h:
+src/lib/subsys/subsys.h:
+/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdbool.h:
+src/lib/llharden/winprocess_sys.h:
+/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h:
